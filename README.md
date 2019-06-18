@@ -1,12 +1,12 @@
 Name
 ====
-Railsの教科書
+Easy Fullscreen Landing Page With HTML & CSS
 
 
 ## Description
-Ruby on Railsの学習で使用したサイト。<br>
+HTML/CSSの学習で使用したサイト。<br>
 
-サイト名：　 　Railsの教科書</br>
-サイトURL： 　http://igarashikuniaki.net/rails_textbook/</br>
+サイト名：　 　Youtube</br>
+サイトURL： 　https://youtu.be/hVdTQWASliE</br>
 
-内容：　Ruby on Railsを使って簡単なミニブログアプリを作成。
+内容：　HTML/CSSを使って簡単なブラウザのサイズを変えても背景が変わらないLPを作成。
